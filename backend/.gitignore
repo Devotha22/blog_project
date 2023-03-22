@@ -1,4 +1,8 @@
 venv
 db.sqlite3
 .env
+
 .gitignore
+
+
+blog_env
