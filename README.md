@@ -1,10 +1,8 @@
 # blog_project
-Devotha
-blog
 
-Albert
-Irakiza
-Michel
+## How to use new update
 
-Albert: Second commit
-Albert: third commit
+1. Install requirements 'pip install -r requirements.txt'
+2. Create .env file in project folder
+3. makemigrations and migrate
+4. Runserver
